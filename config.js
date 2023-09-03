@@ -12,15 +12,15 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = 'QueenNilu;;;t2gm0B5C#S-7EOye8FcvdSLjFfn04tY2K6Jtk9DUzdfIuhfONXDY' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;gjw0WAAB#7bZFMkHrAGUF19e-N6pxVv2Zjt4WSHEXL7ArF8JhePY' // PUT your session ID BY scan QR 
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '923420478099'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ALI'
 
 global.OPENAI_API_KEY = "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"
 
@@ -39,7 +39,7 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link
+global.ALIVELOGO = 'https://telegra.ph/file/8d82990daf8c7207d8063.jpg' // Set Alive Logo link
 
 global.MAX_SIZE = '10000' // Bot Uloading Max size 
 
@@ -55,9 +55,9 @@ global.TIMEZONE = 'Asia/Colombo'
 
 global.SEX_DL = 'true' // 18 + video dl
 
-global.AUTO_STICKER = true
+global.AUTO_STICKER = false
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false
 
 global.ANTI_BAD_ACTION = false
 
